@@ -1,7 +1,8 @@
 # About Me
 
 ## What am I working on?:
-I'm currently working on a small videogame in Python for school.
+I've recently finished a small python game, Reflective, for school.
+Thus, I'm currently not working on anything.
 
 ## Where am I located?
 New Zealand, meaning UTC+12 or UTC+13
